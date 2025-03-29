@@ -1,6 +1,3 @@
-Here’s an enhanced version of the `README.md` file for your project:
-
----
 
 # Waste Classification Model
 
