@@ -67,7 +67,7 @@ waste-classification-model/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/himeshnama007/WasteClassificationModel.git
    cd waste-classification-model
    ```
 2. Install the required dependencies:
