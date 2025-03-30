@@ -34,16 +34,18 @@ Here is an example of the waste classification system in action:
 
 ## Project Structure
 
-waste-classification-model/
-├── app.py                  # Flask backend for the web application
-├── model.py                # Script for training and saving the model
-├── wastemodel.ipynb        # Jupyter Notebook for model experimentation
-├── templates/
-│   └── index.html          # Frontend HTML file for the web interface
-├── static/
-│   └── background.jpg      # Background image for the web application
-├── README.md               # Project documentation
-└── requirements.txt        # List of required Python libraries
+```
+   waste-classification-model/
+   ├── app.py                  # Flask backend for the web application
+   ├── model.py                # Script for training and saving the model
+   ├── wastemodel.ipynb        # Jupyter Notebook for model experimentation
+   ├── templates/
+   │   └── index.html          # Frontend HTML file for the web interface
+   ├── static/
+   │   └── background.jpg      # Background image for the web application
+   ├── README.md               # Project documentation
+   └── requirements.txt        # List of required Python libraries
+```
 
 ---
 
@@ -51,7 +53,7 @@ waste-classification-model/
 
 ### Prerequisites:
 
-- Python 3.8 or higher
+- Python 3.12 or higher
 - Required Python libraries:
   - Flask
   - TensorFlow
