@@ -58,8 +58,6 @@ Here is an example of the waste classification system in action:
   - Flask
   - TensorFlow
   - NumPy
-  - Pillow
-  - Matplotlib
 
 ### Steps:
 
@@ -101,7 +99,7 @@ Here is an example of the waste classification system in action:
 
    - Contains the code for training the waste classification model.
    - Uses TensorFlow and Keras for building and training the model.
-3. **`wastemodel.ipynb`**:
+3. **`model_train.ipynb`**:
 
    - Jupyter Notebook for experimenting with the model and data preprocessing.
 4. **`index.html`**:
@@ -111,7 +109,7 @@ Here is an example of the waste classification system in action:
 5. **`background.jpg`**:
 
    - Background image for the web application.
-6. **`requirements.txt`**:
+6. **`download.txt`**:
 
    - A list of all required Python libraries for the project.
 
